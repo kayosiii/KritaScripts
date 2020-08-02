@@ -1,0 +1,2 @@
+# KritaScripts
+Scripts for Krita
